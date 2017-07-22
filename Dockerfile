@@ -8,7 +8,7 @@ RUN apt-get install -y \
     pandoc python-pandocfilters \
     python-matplotlib python-numpy \
     texlive-base texlive-binaries texlive-extra-utils \
-    texlive-fonts-recommended ttf-bitstream-vera ttf-mscorefonts-installer ttf-oxygen-font-family \
+    texlive-fonts-recommended ttf-bitstream-vera ttf-oxygen-font-family \
     texlive-latex-base texlive-latex-extra texlive-latex-recommended \
     texlive-xetex \
     texlive-pictures texlive-pstricks
