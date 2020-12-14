@@ -18,5 +18,5 @@ RUN apt-get install -y \
     fonts-oxygen fonts-open-sans fonts-roboto \
     fonts-liberation2 fonts-liberation fonts-dejavu \
     texlive-latex-base texlive-latex-extra texlive-latex-recommended \
-    texlive-xetex \
+    texlive-xetex texlive-science \
     texlive-pictures texlive-pstricks
